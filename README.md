@@ -9,4 +9,4 @@ I am working on this project in my free time, and as a result, it is still in pr
 
 <strong>[Link to the data](https://www.kaggle.com/datasets/datasnaek/youtube-new/data)</strong>
 
-My email: sunwisp@skiff.com
+My email: sunwisp@spmail.com
